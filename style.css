@@ -201,7 +201,6 @@ body.menu-open .menu-links li:nth-child(9) { transition-delay: 0.37s; }
   display: flex;
   align-items: center;
   justify-content: center;
-  min-height: calc(100vh - var(--nav-h));
   padding: 70px 24px 90px;
   text-align: center;
   background:
